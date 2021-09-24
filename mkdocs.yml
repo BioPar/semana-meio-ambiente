@@ -1,0 +1,15 @@
+site_name: Semana do Meio Ambiente do IFRN campus Parnamirim — Edição 2021
+
+theme:
+  name: material
+  palette:
+    primary: green
+
+nav:
+  - Início: index.md
+  - Programação:
+    - Terça-feira: programacao/terca.md
+    - Quarta-feira: programacao/quarta.md
+    - Quinta-feira: programacao/quinta.md
+    - Sexta-feira: programacao/sexta.md
+
