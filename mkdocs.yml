@@ -1,4 +1,9 @@
 site_name: Semana do Meio Ambiente do IFRN campus Parnamirim — Edição 2021
+site_url: https://campusverde.par.ifrn.edu.br/semana-do-meio-ambiente/2021
+site_author: Equipe do Campus Verde do IFRN campus Parnamirim
+site_dir: /var/www/campusverde.par/semana-do-meio-ambiente/2021
+site_description: >-
+  Sítio eletrônico da Semana do Meio Ambiente, edição 2021, do IFRN campus Parnamirim.
 
 theme:
   name: material
