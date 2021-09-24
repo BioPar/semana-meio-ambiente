@@ -1,12 +1,6 @@
 # # Programação para sexta-feira, 24/set/2021
 
-![Slide 5](../images/page-5.png)
-
-
-## Transcrição da imagem
-
-
-
+![](../images/page-5.png)
 
 **SEXTA-FEIRA -- 24/09/2021**
 

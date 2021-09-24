@@ -1,4 +1,4 @@
-# # Programação para terça-feira, 21/set/2021
+# Programação para terça-feira, 21/set/2021
 
 ![](../images/page-2.png)
 

@@ -1,8 +1,6 @@
 # Programação para quarta-feira, 22/set/2021
 
-![Slide 3](../images/page-3.png)
-
-## Transcrição da imagem
+![](../images/page-3.png)
 
 **QUARTA-FEIRA - 22/09/2021**
 

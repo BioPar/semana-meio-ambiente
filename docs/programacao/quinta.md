@@ -1,9 +1,6 @@
 # Programação para quinta-feira, 23/set/2021
 
-![Slide 4](../images/page-4.png)
-
-
-## Transcrição da imagem
+![](../images/page-4.png)
 
 **QUINTA-FEIRA - 23/09/2021**
 
